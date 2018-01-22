@@ -1,5 +1,5 @@
 # from-scratch-nn-adaboost-bayes
-older "from scratch" implementations of fully connected neural networks, adaboost, and bayes networks 
+"from scratch" implementations of fully connected neural networks, adaboost, and simple bayes networks 
 
 great for refreshing basic understanding
 
