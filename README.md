@@ -5,6 +5,8 @@ great for refreshing basic understanding
 
 data set used for boosting neural networks is available at https://archive.ics.uci.edu/ml/datasets/Covertype (some features need pre-processing to 0 mean and unit variance).
 
+update: the preprocessed data for boosting neural networks has been added to the repo, as requested
+
 ![alt tag](https://cloud.githubusercontent.com/assets/25671774/25321873/d54ef762-2866-11e7-8546-58ec7f5a32a7.png)
 ![alt tag](https://cloud.githubusercontent.com/assets/25671774/25321879/db03294e-2866-11e7-9bc0-16520f4534f0.png)
 ![alt tag](https://cloud.githubusercontent.com/assets/25671774/25321880/dc75de8e-2866-11e7-9a8d-fc2d9cde1f83.png)
