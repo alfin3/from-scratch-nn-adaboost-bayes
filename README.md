@@ -1,7 +1,7 @@
 # from-scratch-nn-adaboost-bayes
 older "from scratch" implementations of fully connected feedforward neural networks, adaboost, and simple bayes networks 
 
-helpful for refreshing basic understanding
+helpful for reviewing basic concepts
 
 data set used for boosting neural networks is available at https://archive.ics.uci.edu/ml/datasets/Covertype (some features need pre-processing to 0 mean and unit variance).
 
